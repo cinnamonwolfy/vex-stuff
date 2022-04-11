@@ -1,2 +1,3 @@
 # vex-stuff
-Stuff I've made for my robotics team
+
+Stuff I've made for my robotics team. Most of the stuff here will only work with Vex V5, as thats what they use right now. I would have posted Vex V4 stuff, but it seems that all of the stuff I made for V4 is lost to time...
