@@ -1,0 +1,9 @@
+[0404/114017.263:ERROR:process_reader_win.cc(242)] ReadMemory at 0x57272c0 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0404/114017.271:WARNING:pe_image_reader.cc(158)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0404/114017.397:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: The URL does not use a recognized protocol (0x2ee6)
+[0404/114111.400:ERROR:process_reader_win.cc(242)] ReadMemory at 0x56d72c0 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0404/114111.403:WARNING:pe_image_reader.cc(158)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0404/114111.529:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: The URL does not use a recognized protocol (0x2ee6)
+[0404/114254.662:ERROR:process_reader_win.cc(242)] ReadMemory at 0x4d572c0 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0404/114254.665:WARNING:pe_image_reader.cc(158)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0404/114254.796:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: The URL does not use a recognized protocol (0x2ee6)
